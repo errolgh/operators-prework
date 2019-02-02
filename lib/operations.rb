@@ -1,7 +1,5 @@
 #Something about the require keyword is missing in this file 
 
-require 'pry'
-
 def unsafe?(speed)
   if speed > 60
     return true
